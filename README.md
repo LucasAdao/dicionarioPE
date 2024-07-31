@@ -23,5 +23,7 @@
 <li>parar a brincadeira</li>
 </ul>
 
+## Marco Zero, Antigo meu amorrr, Porto Digital, Avanade, Accenture, NTT Data me notemm 
+
 ![image](https://github.com/user-attachments/assets/babb7ed5-60d0-4110-a221-6115a1525aff)
  
