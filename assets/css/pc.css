@@ -36,7 +36,7 @@ Poppins
     text-indent: 30px;
 }
 .primeira{
-    background-image: url(/assets/img/pernambuco-wallpaper.jpg);
+    background-image: url(../img/pernambuco-wallpaper.jpg);
     background-size: cover;
 }
 .primeira__conteudo{
