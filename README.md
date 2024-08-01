@@ -26,4 +26,7 @@
 ## Marco Zero, Antigo meu amorr
 
 ![image](https://github.com/user-attachments/assets/babb7ed5-60d0-4110-a221-6115a1525aff)
+
+## Aplicação Desktop:
+<a href="https://lucasadao.github.io/dicionarioPE/"> Clique Aqui!</a>
  
