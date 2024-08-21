@@ -1,7 +1,7 @@
 ## Jargões Recifenses!!
 <p>O objetivo dessa aplicação é solucionar o desafio da ONE(Oracle Next Education e trazer um pouco da cultura das minhas origens para vocês!! Pernambucoo meu país!!)</p>
 
-## Palavaras Disponiveis Atualmente:
+## Palavras Disponiveis Atualmente:
 <ul>
 <li>jogar futebol</li>
 <li>vou embora</li>
